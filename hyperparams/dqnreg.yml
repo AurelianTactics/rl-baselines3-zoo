@@ -14,8 +14,6 @@ atari:
   exploration_fraction: 0.05
   exploration_final_eps: 0.1
   optimize_memory_usage: True
-  eval-episodes: 100
-  eval-freq: 1000000
 
 # Almost Tuned
 CartPole-v1:
